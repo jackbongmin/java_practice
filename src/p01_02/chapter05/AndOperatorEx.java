@@ -1,4 +1,4 @@
-package chapter05;
+package p01_02.chapter05;
 
 public class AndOperatorEx {
     public static void main(String[] args) {
