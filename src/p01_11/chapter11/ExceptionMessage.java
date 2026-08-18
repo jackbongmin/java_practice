@@ -1,4 +1,4 @@
-package chapter11;
+package p01_11.chapter11;
 
 public class ExceptionMessage {
     public static String returnNull() {

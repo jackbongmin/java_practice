@@ -12,7 +12,9 @@ public class Test0812_01 {
         String str1 = "안녕하세요, ";
         String str2 = "반갑습니다.";
 
-        System.out.println(str1.concat(str2));
+        String str3 = "백종민";
+        System.out.println(str3.length());
+
 
         // 결과 : 안녕하세요, 반갑습니다.
 

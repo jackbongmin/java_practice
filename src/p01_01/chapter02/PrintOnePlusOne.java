@@ -1,4 +1,4 @@
-package chapter02;
+package p01_01.chapter02;
 
 public class PrintOnePlusOne {
     public void print() {
